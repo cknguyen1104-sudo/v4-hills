@@ -1,0 +1,13 @@
+{
+  "segments_before": 8,
+  "segments_after": 24,
+  "peak_before": 2.55,
+  "peak_after": 1.85,
+  "units": "Unity scene units",
+  "max_grade_before": 0.0958139534883721,
+  "max_grade_after": 0.0791871885949752,
+  "max_grade_change_after": 0.01979368675929402,
+  "overlap_before": 0.1,
+  "overlap_after": 0.03,
+  "live_gameplay_tested": false
+}

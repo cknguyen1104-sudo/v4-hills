@@ -1,0 +1,11 @@
+{
+  "disabled_boxes": 24,
+  "continuous_mesh_vertices": 54,
+  "triangles": 52,
+  "upward_facing": true,
+  "single_connected_strip": true,
+  "bale_assets_unchanged": true,
+  "native_engine_unchanged": true,
+  "live_gameplay_verified": false,
+  "runtime_mesh_cooking_verified": false
+}
