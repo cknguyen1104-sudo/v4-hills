@@ -1,0 +1,59 @@
+{
+  "rows": 2,
+  "markers_per_row": 8,
+  "flat_straight_scene_z": [
+    153,
+    83
+  ],
+  "hill_scene_x": [
+    14.4,
+    24.9
+  ],
+  "obstacle_scene_x_approx": [
+    -141.3,
+    -132.3
+  ],
+  "changed_native_methods": [
+    11368,
+    29843,
+    30092,
+    58008
+  ],
+  "level0_unchanged": true,
+  "live_gameplay_verified": false,
+  "spawn_dispatch_fixed": true,
+  "expected_native_instances": 16,
+  "additional_native_methods": [
+    29844,
+    30092
+  ],
+  "height_multiplier": 1.2,
+  "height_changes": {
+    "1939": {
+      "height_before": 1.7799999713897705,
+      "height_after": 2.135999917984009,
+      "bottom_preserved": true
+    },
+    "1940": {
+      "height_before": 1.809999942779541,
+      "height_after": 2.171999931335449,
+      "bottom_preserved": true
+    },
+    "1941": {
+      "height_before": 1.809999942779541,
+      "height_after": 2.171999931335449,
+      "bottom_preserved": true
+    },
+    "2129": {
+      "height_before": 1.458551287651062,
+      "height_after": 1.8145512342453003,
+      "bottom_preserved": true
+    }
+  },
+  "native_keyboard_hurdle_function": 11366,
+  "keyboard_hurdle_keycodes": [
+    273,
+    274
+  ],
+  "native_hurdle_flag_event_9_verified": true
+}
